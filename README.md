@@ -34,7 +34,7 @@ end
 --UI Lib Loading
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/zxciaz/VenyxUI/main/Reuploaded"))() --someone reuploaded it so I put it in place of the original back up so guy can get free credit.
-local venyx = library.new("Vex Hub: Shindo Life", 5013109572)
+local venyx = library.new("Ez W Hub Hub: Shindo Life", 5013109572)
 
 -- themes
 local themes = {
